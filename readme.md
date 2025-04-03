@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a file scanner application built using .NET. It leverages strict TypeScript settings, Astro components, and TailwindCSS for styling, ensuring a modular and reusable codebase.
+This project is a file scanner application built using .NET. 
 
 ## Features
 
@@ -59,9 +59,3 @@ dotnet run
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [TailwindCSS](https://tailwindcss.com/) for styling.
-- [Astro](https://astro.build/) for component architecture.
-- [TypeScript](https://www.typescriptlang.org/) for type safety.
